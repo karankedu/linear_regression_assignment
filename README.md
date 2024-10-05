@@ -27,4 +27,4 @@ You are required to model the demand for shared bikes with the available indepen
 * **Temperature Impact:** Higher temperatures correlate with increased bike rentals.
 
 ### Conclusion
-The linear regression model effectively captures the relationship between various factors and bike rental demand. The findings can inform business strategies such as pricing, fleet management, and marketing efforts. Further analysis and model refinement could explore additional factors or consider more complex modeling techniques.
+The linear regression model effectively captures the relationship between various factors and bike rental demand. 
